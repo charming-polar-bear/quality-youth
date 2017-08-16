@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'figaro'
 gem 'bootstrap-sass'
+gem 'devise'
 
 group :development do
   gem 'capistrano'
