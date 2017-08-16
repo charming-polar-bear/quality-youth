@@ -38,6 +38,10 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'simple_form'
 gem 'font-awesome-rails'
+gem 'material_icons'
+gem 'i18n'
+gem 'rails-i18n'
+
 
 group :development do
   gem 'capistrano'
