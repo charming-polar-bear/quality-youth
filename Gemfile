@@ -36,6 +36,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'figaro'
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'simple_form'
 
 group :development do
   gem 'capistrano'
